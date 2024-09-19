@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "templates": "^1.2.9"
+  }
+}
